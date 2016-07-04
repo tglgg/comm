@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SerialPortConnection">
+</Property><Property Name="解决方案文件" Value="D:\git\SerialPortConnection\SerialPortConnection.sln">
+</Property><Property Name="用户选项文件" Value="D:\git\SerialPortConnection\SerialPortConnection.suo">
+</Property><Property Name="Date" Value="2016年7月4日">
+</Property><Property Name="Time" Value="15:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SerialPortConnection.sln" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SerialPortConnection.suo" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection.suo">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\SerialPortConnection.csproj" Description="项目文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\SerialPortConnection.csproj">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\Form1.cs" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\Form1.Designer.cs" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\IniFile.cs" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\IniFile.cs">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\Profile.cs" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\Profile.cs">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\Program.cs" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\Program.cs">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\Properties\Settings.settings" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\Form1.resx" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\Properties\Resources.resx" Description="文件已成功备份为 D:\git\SerialPortConnection\Backup\SerialPortConnection\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\SerialPortConnection.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="SerialPortConnection" Source="SerialPortConnection\SerialPortConnection.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SerialPortConnection.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="SerialPortConnection.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SerialPortConnection" Source="SerialPortConnection\SerialPortConnection.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
